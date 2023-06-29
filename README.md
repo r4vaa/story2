@@ -1,1 +1,2 @@
+minor changes
 # story2
